@@ -1,0 +1,100 @@
+[
+    {
+        "route_id": "1",
+        "start_point": {
+            "latitude": 40.712776,
+            "longitude": -74.005974
+        },
+        "end_point": {
+            "latitude": 40.768437,
+            "longitude": -73.984943
+        },
+        "distance": "5.6 miles",
+        "duration": "20 minutes",
+        "fare": "$15.00"
+    },
+    {
+        "route_id": "2",
+        "start_point": {
+            "latitude": 40.758896,
+            "longitude": -73.985130
+        },
+        "end_point": {
+            "latitude": 40.748817,
+            "longitude": -73.985428
+        },
+        "distance": "0.7 miles",
+        "duration": "5 minutes",
+        "fare": "$4.00"
+    },
+    {
+        "route_id": "3",
+        "start_point": {
+            "latitude": 40.748817,
+            "longitude": -73.985428
+        },
+        "end_point": {
+            "latitude": 40.748817,
+            "longitude": -73.985428
+        },
+        "distance": "0.0 miles",
+        "duration": "0 minutes",
+        "fare": "$2.50"
+    },
+    {
+        "route_id": "4",
+        "start_point": {
+            "latitude": 40.748817,
+            "longitude": -73.985428
+        },
+        "end_point": {
+            "latitude": 40.748817,
+            "longitude": -73.985428
+        },
+        "distance": "0.0 miles",
+        "duration": "0 minutes",
+        "fare": "$2.50"
+    },
+    {
+        "route_id": "5",
+        "start_point": {
+            "latitude": 40.748817,
+            "longitude": -73.985428
+        },
+        "end_point": {
+            "latitude": 40.748817,
+            "longitude": -73.985428
+        },
+        "distance": "0.0 miles",
+        "duration": "0 minutes",
+        "fare": "$2.50"
+    },
+    {
+        "route_id": "6",
+        "start_point": {
+            "latitude": 40.748817,
+            "longitude": -73.985428
+        },
+        "end_point": {
+            "latitude": 40.748817,
+            "longitude": -73.985428
+        },
+        "distance": "0.0 miles",
+        "duration": "0 minutes",
+        "fare": "$2.50"
+    },
+    {
+        "route_id": "7",
+        "start_point": {
+            "latitude": 40.748817,
+            "longitude": -73.985428
+        },
+        "end_point": {
+            "latitude": 40.748817,
+            "longitude": -73.985428
+        },
+        "distance": "0.0 miles",
+        "duration": "0 minutes",
+        "fare": "$2.50"
+    }
+]
