@@ -17,3 +17,7 @@ venv/
 
 # VSCode
 .vscode/
+
+# Spark
+spark-warehouse/
+output/
