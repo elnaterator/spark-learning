@@ -1,0 +1,10 @@
+fields:
+  - name: id
+    length: 5
+    type: integer
+  - name: name
+    length: 10
+    type: string
+  - name: age
+    length: 3
+    type: integer
